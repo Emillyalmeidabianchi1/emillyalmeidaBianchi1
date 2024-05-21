@@ -1,16 +1,23 @@
-## Hi there 👋
+### Emillly Santos
 
-<!--
-**Emillyalmeidabianchi1/emillyalmeidaBianchi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ### Atendimento ao público
+   
+- Emillly Almeida Dos Santos   
+- 17/05/2006
+- Suzano, SP
+- Celular: (11) 9555-20202
+- Recado:  (11) 9158-14090
+- E-mail:  Emillyalmeidadossantos7@gmail.com
 
-Here are some ideas to get you started:
+  ### Objetivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Aprender e Evoluir
+
+  ### Formação acadêmica
+
+  - Ensino médio
+  - E.E Roberto Bianchi-Completo
+
+  ### Resumo 
+### Habilidades e competências
+  - Facilidade de trabalho em grupo, calma, educada, se comunica com clareza, proativadade, pontual e dedicada em resultados. 
