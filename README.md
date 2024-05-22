@@ -8,7 +8,7 @@
 - Celular: (11) 9555-20202
 - Recado:  (11) 9158-14090
 - E-mail:  Emillyalmeidadossantos7@gmail.com
-  ### objitivo
+  ### objetivo
 
 - Aprender e Evoluir
 
