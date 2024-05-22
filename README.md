@@ -11,7 +11,7 @@
 
   ### Objetivo
 
-  - Aprender e Evoluir
+- Aprender e Evoluir
 
   ### Formação acadêmica
 
