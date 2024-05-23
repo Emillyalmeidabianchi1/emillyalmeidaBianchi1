@@ -5,8 +5,6 @@
 - Emillly Almeida Dos Santos   
 - 17/05/2006
 - Suzano, SP
-- Celular: (11) 9555-20202
-- Recado:  (11) 9158-14090
 - E-mail:  Emillyalmeidadossantos7@gmail.com
   ### objetivo
 
@@ -19,4 +17,8 @@
 
   ### Resumo 
 ### Habilidades e competências
-  - Facilidade de trabalho em grupo, calma, educada, se comunica com clareza, proativadade, pontual e dedicada em resultados. 
+  - Facilidade de trabalho em grupo, calma, educada, se comunica com clareza, proativadade, pontual e dedicada em resultados.
+
+  - aluna do [scratch] https://scratch.mit.edu/
+  - alona do [p5.js] https://editor.p5js.org/
+  - aluna do [alura] https://cursos.alura.com.br/course/repositorio-digital-compartilhar-seus-projetos/task/145221
